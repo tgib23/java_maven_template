@@ -4,6 +4,7 @@
   <groupId>satoshya.template</groupId>
   <artifactId>template</artifactId>
   <packaging>jar</packaging>
+
   <version>1.0-SNAPSHOT</version>
   <name>Maven Quick Start Archetype</name>
   <url>http://maven.apache.org</url>
